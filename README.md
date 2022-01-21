@@ -1,5 +1,13 @@
 # Password Locker
 
+## Table of Content
+* Description
+* Dependencies
+* Author
+* Technology Used
+* Contact Information 
+* License
+
 ## Description
 
 An application that helps the user manage paaswords of various accounts and also help user to generate new passwords, find and delete stored account login details.
