@@ -18,7 +18,7 @@ class TestUser(unittest.TestCase):
         '''
         method to run after each test case.
         '''
-        User.user_list=[]
+        User.user_list = []
 
     def test_init(self):
         '''
